@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "faker": "^4.1.0",
     "jest": "^24.7.1",
     "prettier": "^1.16.4"
   },

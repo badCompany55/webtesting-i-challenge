@@ -55,7 +55,7 @@ function fail(item) {
         };
       }
     case enhancement > 15:
-      if (durability > 9 && enhancement > 0) {
+      if (durability > 9) {
         return {
           ...item,
           durability: item.durability - 10,
